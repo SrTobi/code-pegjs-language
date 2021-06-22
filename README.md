@@ -1,3 +1,19 @@
+!!!! Important !!!!
+===================
+
+There is now a fork of PEG.js, called [Peggy](https://peggyjs.org/), that is actively maintained. I suggest migrating there (Peggy version 1.x.x is fully compatible to the latest PEG.js version).
+
+They also provide a fork of this extension [here](https://marketplace.visualstudio.com/items?itemName=PeggyJS.peggy-language) with additional features like:
+- Goto Definition
+- Find Usages
+- Rule name completion
+- Rename Symbol
+- Outline
+
+Please check it out!
+
+This extension will stay as it is, continuing to provide support for the latest PEG.js version, but no further development is planned.
+
 PEG.js Language Support
 =======================
 
